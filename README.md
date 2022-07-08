@@ -3,6 +3,7 @@
 🔭  I'm Morten from Denmark. I'm currently working as a Webdeveloper at [Indexed](https://www.indexed.dk/) where I'm the goto-guy for WordPress and Laravel at the Office. I do try to get to work on Laravel projects as much as I possibly can (both at Work and in my sparetime).
 
 🌱 I’m currently dabbling with Nuxtjs/Vuejs.
+
 🔭 At the moment I'm working on a Laravel Preset Package to quickly get up and running with a SaaS platform with payments via Stripe via Cashier.
 
 <!--
