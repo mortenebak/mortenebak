@@ -4,7 +4,7 @@
 
 🌱 I’m currently dabbling with Nuxtjs/Vuejs.
 
-🔭 At the moment I'm working on a Laravel Preset Package to quickly get up and running with a SaaS platform with payments via Stripe via Cashier.
+⚡ At the moment I'm working on a Laravel Preset Package to quickly get up and running with a SaaS platform with payments via Stripe via Cashier.
 
 <!--
 **mortenebak/mortenebak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
