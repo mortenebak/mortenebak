@@ -8,8 +8,8 @@ Full stack web developer
 * ✉️  You can contact me at [hej@netbums.dk](mailto:hej@netbums.dk)
 * 🚀  I'm currently working at [Indexed.dk](http://www.indexed.dk) and [Netbums.dk](http://www.netbums.dk)
 
-<a href="https://www.twitter.com/Nempiri" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Nempiri?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/mortenebak" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/mortenebak?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
